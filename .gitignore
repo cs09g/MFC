@@ -17,3 +17,21 @@ ipch/
 *.vsp
 *.vspx
 
+# log files
+*.log
+*.tlog
+
+# image files
+*.ico
+*.bmp
+
+
+*.res
+*.lastbuildstate
+*.obj
+*.pch
+*.unsuccessfulbuild
+*.pdb
+*.idb
+*.exe
+*.ilk
